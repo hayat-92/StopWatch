@@ -1,9 +1,6 @@
 // creating variables
 let counter = document.getElementsByClassName("counter");
 
-// Reference of main div
-let main = document.getElementById("main");
-
 // Reference of start button
 let start = document.getElementById("start");
 
@@ -12,9 +9,6 @@ let stop = document.getElementById("stop");
 
 // Reference of reset button
 let reset = document.getElementById("reset");
-
-// Reference of timer button
-let timer = document.getElementById("timer");
 
 let timeStart = false;
 
